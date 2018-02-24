@@ -1,0 +1,2 @@
+# standbasissample
+A School Comparison and Evaluation Software Built with Laravel PHP
